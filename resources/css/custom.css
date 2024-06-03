@@ -1,0 +1,16 @@
+body {
+    background-color: #1e86ee;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.table {
+    margin-top: 20px;
+}
+/* styles.css */
+body {
+    background-color: #6a5eea; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
